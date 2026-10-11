@@ -1,1 +1,8 @@
-
+numpy
+scipy
+matplotlib
+pywt
+jupyter
+torch
+numba
+scikit-dsp-comm
